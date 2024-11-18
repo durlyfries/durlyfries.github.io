@@ -14,3 +14,7 @@ section {
   padding: 0 1rem;
 }
 
+section>* {
+  width: 100%;
+  max-width: calc(500px + 1 rem);
+}
