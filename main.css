@@ -15,5 +15,4 @@ section {
 
 section>* {
   width: 100%;
-  max-width: calc(500px + 1 rem);
 }
