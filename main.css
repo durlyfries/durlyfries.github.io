@@ -12,6 +12,7 @@ section {
   justify-content: center;
   align-items: stretch;
   text-align: center;
+  margin: 0 50px;
 }
 
 section>* {
